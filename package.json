@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-xlfe",
+  "version": "0.0.1",
+  "description": "ESLint Config for xl fe team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mglwu/eslint-config-xlfe.git"
+  },
+  "keywords": ["eslint", "xlfe"],
+  "author": "wuqi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mglwu/eslint-config-xlfe/issues"
+  },
+  "homepage": "https://github.com/mglwu/eslint-config-xlfe#readme"
+}
