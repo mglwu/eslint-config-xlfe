@@ -1,6 +1,6 @@
 # eslint-config-xlfe
 
-### Usage
+### 使用
 
 #### eslint-config-xlfe
 
