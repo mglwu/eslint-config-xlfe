@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xlfe",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ESLint Config for xl fe team.",
   "main": "index.js",
   "scripts": {
