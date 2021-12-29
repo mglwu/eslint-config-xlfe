@@ -101,7 +101,7 @@ module.exports = {
     'vue/no-multiple-objects-in-class': 'error',
     'vue/no-reserved-component-names': 'error',
     'vue/no-this-in-before-route-enter': 'error',
-    'vue/no-undef-properties': 'error',
+    'vue/no-undef-properties': 'off',
     'vue/no-unused-properties': 'error',
     'vue/no-unused-refs': 'error',
     'vue/no-use-computed-property-like-method': 'error',
